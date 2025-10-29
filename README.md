@@ -60,7 +60,7 @@
   <a href="https://linkedin.com/in/manidipa-4707-e" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/manidipa_4707" target="blank">
+  <a href="https://www.instagram.com/ruhendrila/?utm_source=ig_web_button_share_sheet" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
   <a href="https://github.com/manidipa-4707-e" target="blank">
